@@ -1,0 +1,12 @@
+C:\Jorge\Play\Play.Common\src\Play.Common\bin\Debug\net7.0\Play.Common.deps.json
+C:\Jorge\Play\Play.Common\src\Play.Common\bin\Debug\net7.0\Play.Common.dll
+C:\Jorge\Play\Play.Common\src\Play.Common\bin\Debug\net7.0\Play.Common.pdb
+C:\Jorge\Play\Play.Common\src\Play.Common\obj\Debug\net7.0\Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jorge\Play\Play.Common\src\Play.Common\obj\Debug\net7.0\Play.Common.AssemblyInfoInputs.cache
+C:\Jorge\Play\Play.Common\src\Play.Common\obj\Debug\net7.0\Play.Common.AssemblyInfo.cs
+C:\Jorge\Play\Play.Common\src\Play.Common\obj\Debug\net7.0\Play.Common.csproj.CoreCompileInputs.cache
+C:\Jorge\Play\Play.Common\src\Play.Common\obj\Debug\net7.0\Play.Common.dll
+C:\Jorge\Play\Play.Common\src\Play.Common\obj\Debug\net7.0\refint\Play.Common.dll
+C:\Jorge\Play\Play.Common\src\Play.Common\obj\Debug\net7.0\Play.Common.pdb
+C:\Jorge\Play\Play.Common\src\Play.Common\obj\Debug\net7.0\ref\Play.Common.dll
+C:\jorge\play\play.common\src\play.common\obj\Debug\net7.0\Play.Common.csproj.AssemblyReference.cache
